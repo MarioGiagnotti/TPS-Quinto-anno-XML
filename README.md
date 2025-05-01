@@ -21,4 +21,6 @@ git clone https://github.com/MarioGiagnotti/TPS-quinto-anno-XML.git
  - 2.2 **Per i Parser**:
      - 2.2A -> Aprire la cartella DOMParser in Visual Studio Code e mandare in run il file JAVA
      - 2.2B -> Aprire la cartella DOMParser_byTag in Visual Studio Code e mandare in run il file JAVA
-
+- 2.3 **Per il DOMGenerator**:
+     - 2.3A -> Aprire la cartella DOMGenerator in Visual Studio Code e mandare in run il file JAVA
+     
