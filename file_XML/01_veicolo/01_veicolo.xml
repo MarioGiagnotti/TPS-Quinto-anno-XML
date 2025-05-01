@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="01_veicolo.css" type="text/css"?>
+
+<veicolo>
+  <intestazione>
+    <Marca>Marca</Marca>
+    <Modello>Modello</Modello>
+    <Cilindrata>Cilindrata</Cilindrata>
+    <Prezzo>Prezzo</Prezzo>
+  </intestazione>
+  <automobile>
+    <marca>Ford</marca>
+    <modello>Focus</modello>
+    <cilindrata>70 CV</cilindrata>
+    <prezzo>20000</prezzo>
+  </automobile>
+  <automobile>
+    <marca>Alfa Romeo</marca>
+    <modello>Giulietta</modello>
+    <cilindrata>100 CV</cilindrata>
+    <prezzo>30000</prezzo>
+  </automobile>
+</veicolo>

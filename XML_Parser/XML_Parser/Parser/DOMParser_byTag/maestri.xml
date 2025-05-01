@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maestri>
+    <pittori>
+        <artista nome="Leonardo da Vinci">
+            <opera anno="1483" genere="olio su tela">Vergine delle Rocce</opera>
+            <opera anno="1488" genere="olio su tavola">Dama con ermellino</opera>
+            <opera anno="1494" genere="olio su parete">Ultima cena</opera>
+        </artista>
+        <artista nome="Michelangelo">
+            <opera anno="1497" genere="gruppo sculture">Pieta vaticana</opera>
+            <opera anno="1506" genere="tempera">Tondo Doni</opera>
+            <opera anno="1513" genere="statua">Mose</opera>
+            <opera anno="1537" genere="affresco">Giudizio universale</opera>
+        </artista>
+    </pittori>
+    <musicisti> 
+        <artista nome="Giuseppe Verdi">
+            <opera anno="1871" atti="4">Aida</opera>
+            <opera anno="1851" atti="3">Rigoletto</opera>
+            <opera anno="1857" atti="3" prologo="1">Simon Boccanegra</opera>
+        </artista>
+        <artista nome="Giacomo Puccini">
+            <opera anno="1896" atti="4">La boheme</opera>
+            <opera anno="1887" atti="3">Tosca</opera>
+            <opera anno="1926" atti="3">Turandot</opera>
+        </artista>
+    </musicisti> 
+</maestri>

@@ -1,0 +1,44 @@
+/* Stile per il documento XML */
+veicoli {
+  /* Definisco un blocco per l'intero contenuto dei veicoli */
+  display: block;
+  /* Imposto il font del documento */
+  font-family: Arial, sans-serif;
+  /* Aggiungo uno spazio attorno al contenuto */
+  margin: 20px;
+}
+
+intestazione {
+  /* Ogni elemento marca e modello si comporta come una cella di tabella */
+  display: table-row;
+}
+
+automobile {
+  /* Ogni veicolo si comporta come una riga di tabella */
+  display: table-row;
+}
+
+Marca, Modello, Cilindrata, Prezzo {
+  /* Ogni elemento marca e modello si comporta come una cella di tabella */
+  display: table-cell;
+  /* Spaziatura interna per le celle */
+  padding: 8px;
+  /* Aggiunge un bordo sottile attorno a ciascuna cella */
+  border: 1px solid #ddd;
+  /* Allinea il testo a sinistra in ogni cella */
+  text-align: left;
+  /*Colore yellow*/
+  background-color: yellow;
+}
+
+marca, modello, cilindrata, prezzo {
+  /* Ogni elemento marca e modello si comporta come una cella di tabella */
+  display: table-cell;
+  /* Spaziatura interna per le celle */
+  padding: 8px;
+  /* Aggiunge un bordo sottile attorno a ciascuna cella */
+  border: 1px solid #ddd;
+  /* Allinea il testo a sinistra in ogni cella */
+  text-align: left;
+}
+

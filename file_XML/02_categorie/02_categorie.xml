@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="02_categorie.css"?> 
+<categorie> 
+	<intestazione>
+		<Id>ID</Id>
+		<nomeCategoria>NOME CATEGORIA</nomeCategoria>
+		<descrizione>DESCRIZIONE</descrizione>
+	</intestazione> 
+	<prodotto> 
+		<id>1</id> 
+		<categoria>Beverages</categoria> 
+		<desc>Soft drinks, coff  ees, teas, beers and ales</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>2</id> 
+		<categoria>Condiments</categoria> 
+		<desc>Sweet and savory sauces, relishes, spreads and seasonings</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>3</id> 
+		<categoria>Confections</categoria> 
+		<desc>Desserts, candies and sweet breads</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>4</id> 
+		<categoria>Dairy Products</categoria> 
+		<desc>Cheeses</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>5</id> 
+		<categoria>Grains/Cereals</categoria> 
+		<desc>Breads, crackers, pasta and cereal</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>6</id> 
+		<categoria>Meat/Poultry</categoria> 
+		<desc>Prepared meats</desc> 
+	</prodotto> 
+	<prodotto> 
+		<id>7</id> 
+		<categoria>Produce</categoria> 
+		<desc>Dried fruit and bean curd</desc> 
+	</prodotto> 
+</categorie> 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<attori>
+		<attore id="1">Alberto Sordi</attore>
+		<attore id="2">Massimo Troisi</attore>
+		<attore id="3">Raimondo Vianello</attore>
+	</attori>
+	<cantanti>
+		<cantante id="4">Francesco Di Giacomo</cantante>
+		<cantante id="5">Demetrio Stratos</cantante>
+		<cantante id="6">Rino Gaetano</cantante>
+		<cantante id="7">Pino Daniele</cantante>
+	</cantanti>
+	<chitarristi>
+		<chitarrista id="8">Jimi Hendrix</chitarrista>
+		<chitarrista id="9">Jerry Garcia</chitarrista>
+		<chitarrista id="10">Paco De Lucia</chitarrista>
+		<chitarrista id="11">Pino Daniele</chitarrista>
+		<chitarrista id="12">Rodolfo Maltese</chitarrista>
+		<chitarrista id="13">Frank Zappa</chitarrista>
+	</chitarristi>
+</root>

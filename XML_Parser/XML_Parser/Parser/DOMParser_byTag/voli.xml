@@ -1,0 +1,21 @@
+<prenotazioni>
+<biglietto nome="Ciro Esposito">
+<voloAndata data="1-8-2020">
+<tappa t="Milano"/><tappa t="Roma"/><tappa t="Istanbul"/>
+</voloAndata>
+<voloRitorno data="8-8-2020">
+<tappa t="Istanbul"/><tappa t="Bologna"/><tappa t="Milano "/>
+</voloRitorno>
+<prezzo>990</prezzo>
+</biglietto>
+<biglietto nome="Luigi Bianchi">
+<destinazione>Roma</destinazione>
+<voloAndata data="6-8-2020">
+<tappa t="Bologna"/><tappa t="Roma"/>
+</voloAndata>
+<voloRitorno data="7-8-2020">
+<tappa t="Roma"/><tappa t="Bologna"/>
+</voloRitorno>
+<prezzo>240</prezzo>
+</biglietto>
+</prenotazioni>
